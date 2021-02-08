@@ -1,61 +1,41 @@
-import React, { Component } from 'react';
-import ReactGA from 'react-ga';
-import $ from 'jquery';
+import React from 'react';
 import './App.css';
-import Header from './Components/Header';
-import Footer from './Components/Footer';
-import About from './Components/About';
-import Resume from './Components/Resume';
-import Contact from './Components/Contact';
-import Testimonials from './Components/Testimonials';
-import Portfolio from './Components/Portfolio';
+import {
+  BrowserRouter as Router,
+  Route,
+} from "react-router-dom";
+import Navbar from './components/Navbar';
+import Home from './contents/Home';
+import About from './contents/About';
+import Education from './contents/Education';
+import Skills from './contents/Skills';
+import Contact from './contents/Contact';
 
-class App extends Component {
 
-  constructor(props){
-    super(props);
-    this.state = {
-      foo: 'bar',
-      resumeData: {}
-    };
 
-    ReactGA.initialize('UA-110570651-1');
-    ReactGA.pageview(window.location.pathname);
-
-  }
-
-  getResumeData(){
-    $.ajax({
-      url:'/resumeData.json',
-      dataType:'json',
-      cache: false,
-      success: function(data){
-        this.setState({resumeData: data});
-      }.bind(this),
-      error: function(xhr, status, err){
-        console.log(err);
-        alert(err);
-      }
-    });
-  }
-
-  componentDidMount(){
-    this.getResumeData();
-  }
-
-  render() {
-    return (
+function App() {
+  return (
+    <Router>
       <div className="App">
-        <Header data={this.state.resumeData.main}/>
-        <About data={this.state.resumeData.main}/>
-        <Resume data={this.state.resumeData.resume}/>
-        <Portfolio data={this.state.resumeData.portfolio}/>
-        <Testimonials data={this.state.resumeData.testimonials}/>
-        <Contact data={this.state.resumeData.main}/>
-        <Footer data={this.state.resumeData.main}/>
+        <Navbar />
+        <Route exact path="/">
+          <Home />
+        </Route>
+        <Route path="/about">
+          <About />
+        </Route>
+        <Route path="/education">
+          <Education />
+        </Route>
+        <Route path="/skills">
+          <Skills />
+        </Route>
+        <Route path="/contact">
+          <Contact />
+        </Route>
       </div>
-    );
-  }
+    </Router>
+  );
 }
 
 export default App;

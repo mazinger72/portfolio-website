@@ -6,6 +6,7 @@ class Contact extends Component {
             <div className="condiv">
                 <h1 className="subtopic">Contact Me</h1>
                 <h3>Email  :   ricardo.i.barros@icloud.com</h3>
+                <h3>Instagram   :   @mazingermac</h3>
                 <Social />
             </div>
         )
