@@ -15,11 +15,11 @@ class About extends Component {
                 JS, HTML, and CSS. Growing in leadership and continuously learning new technologies, coding languages, and
                 frameworks are my fundamental desires.
             </p>
+            <br></br>
                 <p>
                     <h4><a href="https://www.dropbox.com/s/ecl1brjjnkm1maz/Ricardo%20Barros%20Resume.pdf?dl=0"
                         target="blank">Download
                     CV</a></h4>
-                    <br></br>
                     <h4><a href="https://www.dropbox.com/s/vcf7q1gli24pxct/Ricardo_Barros_Letter_1.pdf?dl=0"
                         target="blank">Download Cover Letter</a></h4>
                 </p>
