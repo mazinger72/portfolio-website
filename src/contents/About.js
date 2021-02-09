@@ -8,7 +8,7 @@ class About extends Component {
                 <h1 className="subtopic">About Me</h1>
                 <h4>Hey there,</h4>
                 <h1>I'm Rick Barros</h1>
-                <h3>Full Stack Web <u>Developer</u></h3>
+                <h3>Full Stack Software Developer</h3>
                 <br></br>
                 <p>Spanish speaking certified Junior Full Stack Web Developer with a passion to build innovative apps in our
                 growing tech world. My foundations are front end development and design with knowledge of JavaScript, React
