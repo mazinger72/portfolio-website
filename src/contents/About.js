@@ -16,12 +16,12 @@ class About extends Component {
                 frameworks are my fundamental desires.
             </p>
                 <p>
-                    <a href="https://www.dropbox.com/s/ecl1brjjnkm1maz/Ricardo%20Barros%20Resume.pdf?dl=0"
+                    <h4><a href="https://www.dropbox.com/s/ecl1brjjnkm1maz/Ricardo%20Barros%20Resume.pdf?dl=0"
                         target="blank">Download
-                    CV</a>
+                    CV</a></h4>
                     <br></br>
-                    <a href="https://www.dropbox.com/s/vcf7q1gli24pxct/Ricardo_Barros_Letter_1.pdf?dl=0"
-                        target="blank">Download Cover Letter</a>
+                    <h4><a href="https://www.dropbox.com/s/vcf7q1gli24pxct/Ricardo_Barros_Letter_1.pdf?dl=0"
+                        target="blank">Download Cover Letter</a></h4>
                 </p>
                 <br></br>
                 <h2>Professional Experience</h2>
@@ -39,7 +39,7 @@ class About extends Component {
                 <h3>Apogee Telecommunications Inc.</h3>
                 <h4>Norcross, GA / Aug 2015 - Sep 2018</h4>
                 <p>Worked with shipping and receiving satellite equipment for installations in colleges and
-                        universities. Maintained accurate records in the inventory system. Coordinated with various
+                universities. Maintained accurate records in the inventory system. Coordinated with various
                         Freight companies the pickup, shipping and delivery of the palletized equipment.</p>
                 <br></br>
                 <h3>AT&T Telecommunications Inc.</h3>
