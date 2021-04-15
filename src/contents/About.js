@@ -10,12 +10,11 @@ class About extends Component {
                 <h1>I'm Rick Barros</h1>
                 <h3>Full Stack Software Developer</h3>
                 <br></br>
-                <p>Spanish speaking certified Junior Full Stack Web Developer with a passion to build innovative apps in our
-                growing tech world. My foundations are front end development and design with knowledge of JavaScript, React
-                JS, HTML, and CSS. Growing in leadership and continuously learning new technologies, coding languages, and
-                frameworks are my fundamental desires.
+                <p>Actively seeking an apprenticeship or entry level opportunity
+                where I can utilize my recent education in coding as well as my
+                prior tech experience and knowledge.
             </p>
-            <br></br>
+                <br></br>
                 <p>
                     <h4><a href="https://www.dropbox.com/s/ecl1brjjnkm1maz/Ricardo%20Barros%20Resume.pdf?dl=0"
                         target="blank">Download
@@ -29,12 +28,6 @@ class About extends Component {
                 <h4>Woodstock, GA / Oct 2018 - Present</h4>
                 <p>Work as an independent Spanish-English contractor/interpreter for Workers Comp, School IEP's,
                         Workers Compensation depositions, as well as Immigration and Citizenship interviews.</p>
-                <br></br>
-                <h3>The Cleaning Crew</h3>
-                <h4>Atlanta, GA / Aug 2010 - Present</h4>
-                <p>Provide housekeeping cleaning services to a select group of clients in the Atlanta area,
-                cleaning their homes to their specifications, and providing superb customer service to meet
-                their housekeeping needs.</p>
                 <br></br>
                 <h3>Apogee Telecommunications Inc.</h3>
                 <h4>Norcross, GA / Aug 2015 - Sep 2018</h4>

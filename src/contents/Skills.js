@@ -3,7 +3,7 @@ class Skills extends Component {
     constructor(props) {
         super(props);
         this.state = {
-            'myskills': ['HTML', 'CSS', 'JS', 'REACT JS', 'REACT NATIVE', 'NODEJS', 'GITHUB', 'NGINX', 'CORDOVA', 'MYSQL', 'REDUX', 'IONIC', 'MONGODB']
+            'myskills': ['BILINGUAL-SPANISH/ENGLISH','HTML', 'CSS', 'JS', 'REACT JS', 'REACT NATIVE', 'NODEJS', 'GITHUB', 'NGINX', 'CORDOVA', 'MYSQL', 'REDUX', 'IONIC', 'MONGODB', 'JAVA', 'JQUERY', 'EXPRESSJS']
         };
     }
     render() {
