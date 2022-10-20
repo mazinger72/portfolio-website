@@ -1,0 +1,66 @@
+#profile {
+  margin-top: 2.5%;
+}
+#skills {
+  border-left: 2px solid black;
+}
+
+#jobs {
+  padding-left: 5%;
+}
+.progress {
+  margin-bottom: 2%;
+}
+#contactForm {
+  margin: 0 auto;
+}
+.form-control {
+  border: 2px solid black;
+}
+
+#rick{
+    border: 2px solid orange;
+}
+
+.paragraph {
+  justify-self: stretch;
+  font-size: 20px;
+  padding-right: 30px;
+}
+
+.email {
+  list-style-type: none;
+}
+
+.email li {
+  display: inline-block;
+}
+
+.email li a {
+  border-bottom: none;
+}
+
+.email li img {
+  width: 70px;
+  height: 70px;
+  margin-right: 20px;
+}
+
+.email p {
+  padding-top: 30px;
+}
+
+.social-icons li {
+  list-style-type: none;
+  display: inline-block;
+}
+
+.social-icons li a {
+  border-bottom: none;
+}
+
+.social-icons li img {
+  width: 70px;
+  height: 70px;
+  margin-right: 20px;
+}
