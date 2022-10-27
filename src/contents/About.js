@@ -30,7 +30,7 @@ class About extends Component {
                         customizations in COBOL and transitioning them via Groovy language and web services. Assisted DevOps in the security scanning of 
                         new software releases of Trinoor mobile warehousing control solution to identify possible vulnerabilities by leveraging the power 
                         of Micro Focus Fortify WebInspect and Fortify on Demand software. Using JMeter software, performed load and performance testing of 
-                        atabase servers when new release versions were deployed. Assisted IT department in upgrading the Red Hat Linux database servers.</p>
+                        database servers when new release versions were deployed. Assisted IT department in upgrading the Red Hat Linux database servers.</p>
                 <br></br>
                 <h3>Professional Interpretation Services</h3>
                 <h4>Woodstock, GA / Oct 2018 - May 2021</h4>
