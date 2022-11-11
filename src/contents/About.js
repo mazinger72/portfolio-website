@@ -18,10 +18,9 @@ class About extends Component {
                 <br></br>
                 <p>
                     <h4><a href="https://www.dropbox.com/home/Resume?select=Ricardo+Barros+Resume.pdf&preview=Rick+Barros+Resume.pdf"
-                        target="blank">Download
-                        CV</a></h4>
+                    target="blank">Download CV</a></h4>
                     <h4><a href="https://www.dropbox.com/s/vcf7q1gli24pxct/Ricardo_Barros_Letter_1.pdf?dl=0"
-                        target="blank">Download Cover Letter</a></h4>
+                    target="blank">Download Cover Letter</a></h4>
                 </p>
                 <br></br>
                 <h2>Professional Experience</h2>
