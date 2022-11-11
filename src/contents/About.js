@@ -13,6 +13,7 @@ class About extends Component {
                 <p>Actively seeking a Jr. Developer opportunity where I can utilize my
                     recent education and expertise in coding as well as my prior tech
                     experience and knowledge.
+                    "Being willing to be very bad at something until you learn to do it well is not a downfall, it's an incredible strength."
                 </p>
                 <br></br>
                 <p>
@@ -26,11 +27,12 @@ class About extends Component {
                 <h2>Professional Experience</h2>
                 <h3>Trinoor, LLC.</h3>
                 <h4>Marietta, GA / May 2021 - Oct 2022</h4>
-                <p>Performed software upgrades to Asset Suite software utilized by power companies for their systems control by enabling their 
-                        customizations in COBOL and transitioning them via Groovy language and web services. Assisted DevOps in the security scanning of 
-                        new software releases of Trinoor mobile warehousing control solution to identify possible vulnerabilities by leveraging the power 
-                        of Micro Focus Fortify WebInspect and Fortify on Demand software. Using JMeter software, performed load and performance testing of 
-                        database servers when new release versions were deployed. Assisted IT department in upgrading the Red Hat Linux database servers.</p>
+                <p>Performed software upgrades to Hitachi Asset Suite software utilized by power companies for the control of their systems 
+                    by enabling their customizations in COBOL and transitioning them via Groovy language and web services. Assisted DevOps 
+                    in the security scanning of new software releases of Trinoor’s mobile warehousing control application to identify possible 
+                    vulnerabilities by leveraging the power of Micro Focus Fortify WebInspect and Fortify on Demand software. Using the JMeter 
+                    application, performed load and performance testing of database servers when new release versions were deployed. Assisted 
+                    the IT department in upgrading the Red Hat Linux database servers.</p>
                 <br></br>
                 <h3>Professional Interpretation Services</h3>
                 <h4>Woodstock, GA / Oct 2018 - May 2021</h4>
