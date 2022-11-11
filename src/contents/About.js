@@ -13,8 +13,8 @@ class About extends Component {
                 <p>Actively seeking a Jr. Developer opportunity where I can utilize my
                     recent education and expertise in coding as well as my prior tech
                     experience and knowledge.
-                    "Being willing to be very bad at something until you learn to do it well is not a downfall, it's an incredible strength."
-                </p>
+                    </p>
+                    <p>"Being willing to be very bad at something until you learn to do it well is not a downfall, it's an incredible strength."</p>
                 <br></br>
                 <p>
                     <h4><a href="https://www.dropbox.com/home/Resume?select=Ricardo+Barros+Resume.pdf&preview=Rick+Barros+Resume.pdf"
